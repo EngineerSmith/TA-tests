@@ -1,4 +1,4 @@
-love.filesystem.setIdentity("RTA TEST") -- where saved images will go
+love.filesystem.setIdentity("TA TEST") -- where saved images will go
 local lg, li = love.graphics, love.image
 if lg then
   error("Tests do not support love.graphics yet")
